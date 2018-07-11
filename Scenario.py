@@ -1,5 +1,5 @@
 from Testboard import Testboard
-from Ifttt import Ifttt
+from Ifttt12 import Ifttt
 import time
 
 BINARY_FROM = "SPANNER"
